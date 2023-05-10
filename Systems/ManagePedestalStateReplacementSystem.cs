@@ -10,6 +10,7 @@ using Unity.Entities;
 
 namespace FranchiseCardCount.Systems
 {
+    [HarmonyPatch]
     [UpdateAfter(typeof(ManagePedestalState))]
     internal class ManagePedestalStateReplacementSystem : FranchiseBuilderSystem, IModSystem
     {

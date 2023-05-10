@@ -12,7 +12,7 @@ namespace FranchiseCardCount
     {
         public const string MOD_GUID = "io.zkz.plateup.franchisecardcount";
         public const string MOD_NAME = "Franchise Card Count";
-        public const string MOD_VERSION = "0.1.0";
+        public const string MOD_VERSION = "0.1.1";
         public const string MOD_AUTHOR = "ZekNikZ";
         public const string MOD_GAMEVERSION = ">=1.1.4";
 
